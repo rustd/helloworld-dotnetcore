@@ -1,0 +1,15 @@
+/Users/pranavrastogi/Documents/GitHub/helloworld-dotnetcore/bin/Debug/net6.0/helloworld-dotnetcore
+/Users/pranavrastogi/Documents/GitHub/helloworld-dotnetcore/bin/Debug/net6.0/helloworld-dotnetcore.deps.json
+/Users/pranavrastogi/Documents/GitHub/helloworld-dotnetcore/bin/Debug/net6.0/helloworld-dotnetcore.runtimeconfig.json
+/Users/pranavrastogi/Documents/GitHub/helloworld-dotnetcore/bin/Debug/net6.0/helloworld-dotnetcore.dll
+/Users/pranavrastogi/Documents/GitHub/helloworld-dotnetcore/bin/Debug/net6.0/helloworld-dotnetcore.pdb
+/Users/pranavrastogi/Documents/GitHub/helloworld-dotnetcore/obj/Debug/net6.0/helloworld-dotnetcore.csproj.AssemblyReference.cache
+/Users/pranavrastogi/Documents/GitHub/helloworld-dotnetcore/obj/Debug/net6.0/helloworld-dotnetcore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pranavrastogi/Documents/GitHub/helloworld-dotnetcore/obj/Debug/net6.0/helloworld-dotnetcore.AssemblyInfoInputs.cache
+/Users/pranavrastogi/Documents/GitHub/helloworld-dotnetcore/obj/Debug/net6.0/helloworld-dotnetcore.AssemblyInfo.cs
+/Users/pranavrastogi/Documents/GitHub/helloworld-dotnetcore/obj/Debug/net6.0/helloworld-dotnetcore.csproj.CoreCompileInputs.cache
+/Users/pranavrastogi/Documents/GitHub/helloworld-dotnetcore/obj/Debug/net6.0/helloworld-dotnetcore.dll
+/Users/pranavrastogi/Documents/GitHub/helloworld-dotnetcore/obj/Debug/net6.0/refint/helloworld-dotnetcore.dll
+/Users/pranavrastogi/Documents/GitHub/helloworld-dotnetcore/obj/Debug/net6.0/helloworld-dotnetcore.pdb
+/Users/pranavrastogi/Documents/GitHub/helloworld-dotnetcore/obj/Debug/net6.0/helloworld-dotnetcore.genruntimeconfig.cache
+/Users/pranavrastogi/Documents/GitHub/helloworld-dotnetcore/obj/Debug/net6.0/ref/helloworld-dotnetcore.dll
